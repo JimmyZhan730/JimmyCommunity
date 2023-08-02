@@ -1,6 +1,6 @@
 # NowCoderCommunity_LowVersion
 
-### 这是一个仿牛客社区的学习项目
+### 社区论坛项目
 
 技术栈：
 Springboot + thymeleaf
